@@ -22,7 +22,7 @@ export default function Contact({ language }: ContactProps) {
       cta: "Contact us",
       email: "Email",
       location: "Location",
-      locationValue: "18, Achasan-ro 7na-gil, Seongdong-gu, Seoul",
+      locationValue: "#801, 18, Achasan-ro 7na-gil, Seongdong-gu, Seoul, Republic of Korea",
       linkedin: "LinkedIn"
     },
     ko: {
@@ -30,7 +30,7 @@ export default function Contact({ language }: ContactProps) {
       cta: "문의하기",
       email: "이메일",
       location: "위치",
-      locationValue: "서울 성동구 아차산로7나길 18",
+      locationValue: "서울특별시 성동구 아차산로7나길 18, 801호",
       linkedin: "링크드인"
     }
   };
