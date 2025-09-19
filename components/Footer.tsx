@@ -13,7 +13,7 @@ export default function Footer() {
           {/* Business Registration Information */}
           <div className="text-center space-y-2 text-gray-500 text-sm">
             <div className="space-y-1">
-              <p className="font-light">상호명: 주식회사 나노포지 에이아이</p>
+              <p className="font-light">상호명: 주식회사 나노포지에이아이</p>
               <p className="font-light">대표자: 김동현</p>
               <p className="font-light">사업자등록번호: 643-86-03429</p>
               <p className="font-light">주소: 서울특별시 성동구 아차산로7나길 18 801호</p>
